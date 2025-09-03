@@ -1,0 +1,10 @@
+langgraph
+langsmith
+langchain
+langchain_groq
+langchain_openai
+langchain_community
+langchain-text-splitters
+bs4
+IPython
+langchain_tavily
